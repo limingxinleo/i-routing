@@ -1,5 +1,7 @@
-# component-creater
+# Illuminate Routing for Hyperf
+
+## 安装
 
 ```
-composer create-project hyperf/component-creater
+composer require limingxinleo/i-routing
 ```
