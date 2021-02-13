@@ -4,9 +4,11 @@
     "license": "MIT",
     "keywords": [
         "php",
-        "hyperf"
+        "hyperf",
+        "illuminate",
+        "routing"
     ],
-    "description": "",
+    "description": "Illuminate Routing for Hyperf",
     "autoload": {
         "psr-4": {
             "Illuminate\\Routing\\": "src/"
